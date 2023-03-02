@@ -412,7 +412,7 @@ All articles are also published on [Substack](https://defihacklabs.substack.com/
 
 ### Hacks Dashboard
 
-[Slowmist](https://hacked.slowmist.io/) | [Defillama](https://defillama.com/hacks) | [Defiyield](https://defiyield.app/rekt-database) | [Rekt](https://rekt.news/) | [Cryptosec](https://cryptosec.info/defi-hacks/)
+[Slowmist](https://hacked.slowmist.io/) | [Defillama](https://defillama.com/hacks) | [Defiyield](https://defiyield.app/rekt-database) | [Rekt](https://rekt.news/) | [ChainSec](https://chainsec.io/defi-hacks/)
 
 ---
 
